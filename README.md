@@ -1,0 +1,2 @@
+# polaroid
+a discord bot
